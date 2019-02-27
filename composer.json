@@ -17,8 +17,8 @@
     ],
     "require": {
         "php": ">=7.1.3",
-        "illuminate/events": "5.7.*",
-        "illuminate/support": "5.7.*",
+        "illuminate/events": "~5.7.0|~5.8.0",
+        "illuminate/support": "~5.7.0|~5.8.0",
         "commerceguys/intl": "^1.0.1",
         "jenssegers/date": "^3.4",
         "umpirsky/country-list": "^2.0",
